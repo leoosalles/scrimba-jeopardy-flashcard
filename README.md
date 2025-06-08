@@ -1,5 +1,7 @@
-# scrimba-jeopardy-flashcard
-A <strong>CSS-only flashcard</strong> that flips to reveal the answer—just like in Jeopardy! This project demonstrates <strong>pure CSS techniques</strong> for an interactive card flip effect.
+<h1>Jeopardy Flashcard 🎭</h1>
+<p>
+  A <strong>CSS-only flashcard</strong> that flips to reveal the answer—just like in Jeopardy! This project demonstrates <strong>pure CSS techniques</strong> for an interactive card flip effect.
+</p>
 <h2>✨ Features</h2>
 <ul>
   <li>
